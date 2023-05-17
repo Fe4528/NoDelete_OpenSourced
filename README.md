@@ -44,3 +44,16 @@ i messaged this for testing
 ![benis](https://ironworks.neocities.org/assets/NAHHHH.PNG)
 
 and now if i delete it, it should look like this
+
+![epic](https://ironworks.neocities.org/assets/botsucc.PNG)
+
+it works!!!! yayy!!!!!
+
+## bonus stuff
+
+![att](https://ironworks.neocities.org/assets/attachment.PNG)
+
+it supports attachments so you can download it :trollface:
+
+
+🤑🤑🤑🤑🤑
