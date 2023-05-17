@@ -19,7 +19,9 @@ logging_channel_id: channel id for private logging
 
 # running it (!!!!)
 
-ok so let's just assume that this is the path where you downloaded the source file (C:\\Users\\YourPCNmme\\Documents\\NoDelete_OpenSourced\\)
+ok so let's just assume that this is the path where you downloaded the source file 
+
+--> (C:\\Users\\YourPCName\\Documents\\NoDelete_OpenSourced\\)
 
 ![path](https://ironworks.neocities.org/assets/simple1.PNG)
 
