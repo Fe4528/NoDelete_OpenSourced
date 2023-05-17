@@ -33,6 +33,14 @@ cd C:\Users\<Name>\Documents\NoDelete_OpenSourced\
 node .
 ```
 ---
-after it printed "ok i'm online" in the console, ou should see your bot online
+after it printed "ok i'm online" in the console, you should see your bot online
 
 ![funnybot](https://ironworks.neocities.org/assets/funnybot.PNG)
+
+## testing the bot
+
+i messaged this for testing
+
+![benis](https://ironworks.neocities.org/assets/NAHHHH.PNG)
+
+and now if i delete it, it should look like this
