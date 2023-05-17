@@ -32,3 +32,7 @@ cd C:\Users\<Name>\Documents\NoDelete_OpenSourced\
 
 node .
 ```
+---
+after it printed "ok i'm online" in the console, ou should see your bot online
+
+![funnybot](https://ironworks.neocities.org/assets/funnybot.PNG)
