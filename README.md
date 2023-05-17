@@ -14,7 +14,7 @@ A small version of NoDelete's system.
     "logging_channel_id": null
 }
 ```
-bot_token: your bot token (obviously)
+bot_token: your bot token (obviously)\n
 logging_channel_id: channel id for private logging
 
 # running it (!!!!)
