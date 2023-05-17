@@ -6,8 +6,5 @@ A small version of NoDelete's system.
 # modules needed
 - discord.js (13.15.1)
 
-yeah i didnt add a lot of libraries
+# bot configs
 
-# hosting your own instance of NoDelete
-
-idk
