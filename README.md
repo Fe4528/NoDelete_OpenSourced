@@ -15,3 +15,9 @@ After that, name your application to something
 ![image2.jpg](https://ironworks.neocities.org/assets/STEP1_2.PNG)
 
 Don't forget to click the checkbox below.
+
+---
+
+Now that you've created an application, head over to the "Bot" tab. The application pfp is optional.
+
+![image3.jpg](https://ironworks.neocities.org/assets/STEP1_3.PNG)
